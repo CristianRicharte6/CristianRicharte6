@@ -1,4 +1,5 @@
-👋 Hi, I’m @CristianRicharte6
+<h1>Hello world 🌎 I am Cristian Richarte </h1>
+
 
 👀 I’m interested in Solidity, DApps and Web3 solutions!
 
@@ -13,3 +14,4 @@
 📚 I speak English and Spanish fluently.
 
 📫 How to reach me: Cristian Richarte Gil on Linkedin.
+
