@@ -15,3 +15,5 @@
 
 📫 How to reach me: Cristian Richarte Gil on Linkedin.
 
+
+![giphy](https://user-images.githubusercontent.com/102038261/173193036-543b239b-0152-4e91-8c01-3ec8fc384c18.gif)
