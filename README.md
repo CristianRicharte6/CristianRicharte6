@@ -1,7 +1,7 @@
 <h1>Hello world 🌎 I am Cristian Richarte </h1>
 
 
-👀 I’m interested in Solidity, DApps and Web3 solutions!
+👀 I’m interested in JavaScript, Solidity, DApps and Web3 solutions!
 
 🌱 I’m currently doing a full intensive Master in Blockchain and Crypto (Co-created by Binance) and learning Solidity.
 
