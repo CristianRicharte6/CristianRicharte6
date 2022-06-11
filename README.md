@@ -5,7 +5,7 @@
 
 🌱 I’m currently doing a full intensive Master in Blockchain and Crypto (Co-created by Binance).
 
-💞️ I’m looking to collaborate on Solidity and Web3 projects.
+🌐 I’m looking to collaborate on Solidity and Web3 projects.
 
 🔭 I’m currently working as a Team leader Sales representative for an international company.
 
