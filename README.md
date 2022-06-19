@@ -13,7 +13,7 @@
 
 📚 I speak English and Spanish fluently.
 
-📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/cristian-richarte-gil-2225a5165/"> Cristian Richarte Gil on Linkedin. </a>
+📫 How to reach me: <a target=“_blank” href="https://www.linkedin.com/in/cristian-richarte-gil-2225a5165/"> Cristian Richarte Gil on Linkedin. </a>
 
 
 ![giphy](https://user-images.githubusercontent.com/102038261/173193036-543b239b-0152-4e91-8c01-3ec8fc384c18.gif)
