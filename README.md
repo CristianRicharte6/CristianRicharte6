@@ -1,6 +1,9 @@
 <h1>Hello world 🌎 I am Cristian Richarte </h1>
 
-Pasionated, skilled and creative Web3 Developer in love with Web3 and finances.<br><br>I love the idea of how a decentralized world could help us to improve as a comunity and as humans.<br><br>After learning how free we can be with Web3, it stoped being a hobby and it changed my mind, now I want to build the next big thing.<br><br><br>✉ Shoot me an Email or add me on Linkedin
+Pasionated, skilled and creative Web3 Developer in love with Web3 and finances.<br><br>I love the idea of how a decentralized world could help us to improve as a comunity and as humans.<br><br>After learning how free we can be with Web3, it stoped being a hobby and it changed my mind, now I want to build the next big thing.<br>
+<p> Also, <strong>I have compleated Ethernaut.</strong> <a href="https://github.com/CristianRicharte6/SmartContracts/tree/main/Ethernaut-Challenges">Here</a> you have the repository with all the Challenges that I have compleated.
+  
+<br>✉ Shoot me an Email or add me on Linkedin
 
 ![giphy](https://user-images.githubusercontent.com/102038261/173193036-543b239b-0152-4e91-8c01-3ec8fc384c18.gif)
 
