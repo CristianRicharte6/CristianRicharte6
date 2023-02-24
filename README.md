@@ -2,7 +2,7 @@ Pasionated, skilled and creative Blockchain Developer in love with Web3 and fina
 
 <br>![oz_main_white](https://user-images.githubusercontent.com/102038261/200035582-e41ddbaf-d910-4088-a04e-68cc45a57528.svg)
 
-<p> Also, <strong>I have compleated Ethernaut.</strong> <a href="https://github.com/CristianRicharte6/SmartContracts/tree/main/Ethernaut-Challenges">Here</a> you have the repository with all the Challenges that I have compleated.
+<p> Also, <strong>I have compleated Ethernaut.</strong> <a href="https://github.com/CristianRicharte6/Ethernaut-CTF">Here</a> you have the repository with all the Challenges that I have compleated.
   
 <br>✉ Shoot me an Email or add me on <a href="https://www.linkedin.com/in/cristian-richarte-gil/">Linkedin<a/>
 
