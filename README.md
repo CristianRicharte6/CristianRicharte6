@@ -1,7 +1,7 @@
 
 ``` javascript
 if ("You can envision a Decentralized World") {
-  return "Reach me out! 👾";
+  return "Crypto is the only way! 👾";
 } else {
   throw "May the Force be with you!";
 }
